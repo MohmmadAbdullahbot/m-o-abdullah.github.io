@@ -1,0 +1,18 @@
+- name: Certified Fire Protection Specialist (CFPS)
+  authority: NFPA
+  issued: "Nov 2024"
+  expires: "Nov 2027"
+- name: Project Management Professional (PMP)®
+  authority: PMI
+  issued: "Aug 2021"
+  expires: "Aug 2027"
+- name: 3VA Molded Case Circuit Breakers
+  authority: Siemens
+  issued: "Jan 2025"
+- name: 3WA Air Circuit Breakers
+  authority: Siemens
+  issued: "Jan 2025"
+- name: Basic Principles of Electrical Engineering
+  authority: Siemens
+  issued: "Jan 2025"
+# ...add more from your LinkedIn (optional)
